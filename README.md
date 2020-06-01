@@ -3,6 +3,11 @@ Repository for Algorithms for NLP (Spring 2020) - Carnegie Mellon University
 
 Course Website(http://demo.clab.cs.cmu.edu/algo4nlp20/)
 
+High-Potential Individuals Global Training Program supported by IITP Korea.
+
+https://www.lti.cs.cmu.edu/iitp-executive-education-course-spring-2020
+
+
 ## [HW1](https://github.com/yongkyung-oh/CMU-Algorithms_for_NLP/tree/master/hw1_handout)
 POS tagging forms an important part of NLP workflow for most modern day NLP systems. Within the NLP
 community, POS tagging is largely perceived as a solved problem, or at least well enough solved such that most people don’t put much effort into improving POS tagging for its own sake.
