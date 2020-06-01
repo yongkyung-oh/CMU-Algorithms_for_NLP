@@ -1,4 +1,4 @@
-# CMU-Algorithms_for_NLP
+# CMU-Algorithms_for_NLP (Natural Language Processing)
 Repository for Algorithms for NLP (Spring 2020) - Carnegie Mellon University
 
 Course Website(http://demo.clab.cs.cmu.edu/algo4nlp20/)
